@@ -145,12 +145,3 @@ Example:
 * Research in autonomous driving & AI safety systems
 
 ---
-
-## 👨‍💻 Author
-
-* **Sujal Revankar** – Final Year CSE (AIML) Student
-* Developed as a **Major Project** for B.E. in Artificial Intelligence & Machine Learning
-
----
-
-👉 I can also create a **short abstract + block diagram** (for your project report submission). Do you want me to prepare that as well?
